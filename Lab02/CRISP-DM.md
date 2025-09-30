@@ -4,7 +4,7 @@ Mô hình CRISP-DM (Cross Industry Standard Process for Data Mining) được xe
 Các bước chính trong CRISP-DM và vòng đời của Data Mining:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/553ac651-6a63-4080-b41b-47342f321049" width="700"/>
+  <img src="https://github.com/user-attachments/assets/1b6d1143-b7d1-4ebd-893e-bd26ec40a8fc"  width="700"/>
 </div>
 
 
