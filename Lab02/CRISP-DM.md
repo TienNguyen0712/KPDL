@@ -3,7 +3,9 @@
 Mô hình CRISP-DM (Cross Industry Standard Process for Data Mining) được xem là chuẩn mực quy tắc chung trong các công việc Khai Phá Dữ liệu bất kể ở quy mô hay nghành nghề nào. Cung cấp toàn bộ phương pháp và quy trình cho một vòng dời của khai phá dữ liệu. Cung cấp cái nhìn tổng quát về vòng đời của công việc data mining 
 Các bước chính trong CRISP-DM và vòng đời của Data Mining:
 
-<img width="338" height="312" alt="Image" src="https://github.com/user-attachments/assets/553ac651-6a63-4080-b41b-47342f321049" />
+<div style="text-align: center;">
+ <img src="https://github.com/user-attachments/assets/553ac651-6a63-4080-b41b-47342f321049" alt="Centered Image" width="428" height="412">
+</div>
 
 ### *II. Các bước được sử dụng trong CRISP-DM*
 #### *1.	Business Understanding (Hiểu doanh nghiệp)*
