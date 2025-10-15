@@ -6,3 +6,10 @@
   * Lab01: Tổng quan về môn học
     * Ôn tập học máy
     * Ngôn ngữ Python 
+    * Giới thiệu AI (Tri tuệ nhân tạo)
+    * Tổng quan về Data Mining (Khai phá dữ liệu)
+    * Hiển thị và trực quan hóa dữ liệu
+  * Lab02: Làm việc với dữ liệu
+    * Khám phá dữ liệu
+  * Lab03: Xử lý dữ liệu  
+  
