@@ -2,3 +2,5 @@
 * Ngày 1/12 đến 6/12 thực hiện xong việc lựa chọn đè tài, Hoàn thành chương 1 
 * Ngày 10/12 đến 11/12 thực hiện xong phần thực hành Chương 3 báo cáo
   * Trả lời 2 câu hỏi phân loại
+* Ngày 14/12 thực hiện xong phần thực hành Chương 3 báo cáo
+  * Trả lời 2 câu hỏi phân cụm
