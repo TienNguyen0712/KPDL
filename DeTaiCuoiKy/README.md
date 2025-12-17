@@ -4,3 +4,5 @@
   * Trả lời 2 câu hỏi phân loại
 * Ngày 14/12 thực hiện xong phần thực hành Chương 3 báo cáo
   * Trả lời 2 câu hỏi phân cụm
+* Ngày 16/12 thực hiện xong phần thực hành Chương 3 báo cáo
+  * Trả lời 4 câu hỏi khám phá dữ liệu (EDA)
