@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![Last Commit](https://img.shields.io/github/last-commit/TienNguyen0712/KPDL/hotel-booking-demand-mining
+)
+
 # Hotel Booking Demand – Data Mining Project
 
 ## 1. Dataset
